@@ -8,6 +8,8 @@ pip.main(['install'] + package_installer + ['--upgrade'])
 
 from selenium import webdriver
 
+#update after cloning from git
+
 
 
 # Start Google Chrome
